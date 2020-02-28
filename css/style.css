@@ -18,3 +18,7 @@ hr {
   width: 5%;
   border-color: #3a4750;
 }
+
+#profile-pic {
+  border-radius: 100%;
+}
